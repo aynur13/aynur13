@@ -26,7 +26,7 @@
 #### 🎯 GitHub Activity:
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KamalAbdullayev0&bg_color=1a1b27&color=ffffff&line=38bdae&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aynur13&bg_color=1a1b27&color=ffffff&line=38bdae&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
 </p>
 
@@ -37,8 +37,8 @@
   </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalAbdullayev0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=aynur13">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aynur13&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 ---
