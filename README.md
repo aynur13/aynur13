@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aynur! 👋</h1>
 
 <p align="center">
-  🌟 A passionate software developer dedicated to building high-quality applications! 🚀
+  🌟 
 </p>
 
 ---
